@@ -1,0 +1,8 @@
+<resources>
+    <string name="flickr_key" templateMergeStrategy="preserve" translatable="false">
+        2f23e73837c8b6c6e5c88ac05f0f6a9c
+    </string>
+    <string name="flickr_secret" templateMergeStrategy="preserve" translatable="false">
+        98288ee8118703fb
+    </string>
+</resources>
