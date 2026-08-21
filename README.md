@@ -4,6 +4,15 @@ With **_Shutter Notes_** you can take notes while you are photographing with any
 
 *Flickr is a trademark of SmugMug, Inc.*
 
+### Installation:
+
+Go to: 
+https://github.com/shutternotes/shutternotes.github.io/tree/master/app/release
+
+Right-click <b>shutter-notes.apk</b>, and select <i>Save link as...</i>
+
+Copy the dowloaded file to you smartphone and open it.
+
 ### APIs
 
 This application uses *Flickr™* and *Google Maps™* APIs, that for obvious reasons, the keys were removed from this repository. To get and use these APIs follow the instructions below.
