@@ -4,7 +4,7 @@ With **_Shutter Notes_** you can take notes while you are photographing with any
 
 *Flickr is a trademark of SmugMug, Inc.*
 
-### Installation:
+### Installation
 
 Go to: 
 https://github.com/shutternotes/shutternotes.github.io/tree/master/app/release
